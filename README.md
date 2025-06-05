@@ -29,6 +29,8 @@ This project demonstrates how to process Google Maps location history data using
     - Create a vector store index using LlamaIndex.
     - Query the data using a language model.
 
+![Architecture](pic1.png)
+
 ## Notebook Overview
 
 - **Import Libraries**: Import necessary libraries such as `os`, `pandas`, `numpy`, and `llama_index`.
