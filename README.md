@@ -31,6 +31,8 @@ This project demonstrates how to process Google Maps location history data using
 
 ![Architecture](pic1.png)
 
+![Architecture](pic2.png)
+
 ## Notebook Overview
 
 - **Import Libraries**: Import necessary libraries such as `os`, `pandas`, `numpy`, and `llama_index`.
